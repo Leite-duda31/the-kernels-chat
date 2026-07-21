@@ -3,5 +3,5 @@ um projeto bobinho desenvolvido quando eu queria conversar com meu amigo, porém
 
 Usando sockets, e criptografia fernet aes-256, e tailscale, apliquei os primeiros conceitos que vi sobre redes e segurança.
 
-(projeto iniciado em : junho de 2026, ultima aturalização em: hoje, porém eu estou atualizando ele, essa é uma versão antiga).
+(projeto iniciado em : junho de 2025, ultima aturalização em: 20/07/2026, porém eu estou atualizando ele, essa é uma versão antiga).
 
