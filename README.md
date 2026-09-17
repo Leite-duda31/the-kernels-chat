@@ -6,3 +6,4 @@ Usando sockets, e criptografia fernet aes-128, e tailscale, apliquei os primeiro
 (projeto iniciado em : junho de 2025, ultima aturalização em: 20/07/2026, porém eu estou atualizando ele, essa é uma versão antiga).
 
 obs: geralmente quando eu encontro uma barreira, ou um problema eu construo um passe, e uma solução.
+obs: Eu usei tailscale para simular que estariamos na mesma rede.
